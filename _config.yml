@@ -22,7 +22,7 @@ rss: rss
 # - username: jekyll2
 #   instance: example.com
 
-
+future: true
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
