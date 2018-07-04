@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am data scientist and software developer. Formerly head of data science at NPAW, Barcelona. Researcher at the University of Sydney and University of Iceland. Attended [PI Campus](https://picampus-school.com/programme/school-of-ai/)'s (a European YCombinator) summer school of AI. The blog is made with Jekyll, the theme is called Minima.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
