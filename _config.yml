@@ -1,6 +1,7 @@
 title: Hjortur Jonasson
 author: hjonasson
-description: > Data scientist and software developer. Attended PI Campus's school of AI.
+description: > # eitthvad bull
+  Data scientist and software developer. Attended PI Campus's school of AI.
 
 # social links
 #twitter_username: jekyllrb
@@ -10,7 +11,7 @@ rss: rss
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
- linkedin_username: hjorturjonasson
+linkedin_username: hjorturjonasson
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # googleplus_username: +jekyll
